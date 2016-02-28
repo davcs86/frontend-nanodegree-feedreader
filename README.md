@@ -21,7 +21,7 @@ Project #5 for Udacity's front-end web developer nanodegree program by davcs86.
 1. Write a test that ensures when a new feed is loaded by the loadFeed function that the content actually changes. Remember, loadFeed() is asynchronous.
 1. When complete - all of your tests should pass.
 
-## Changeslog
+## Changelog
 
 - **Tasks 1-8**: Added a custom matcher for jasmine which loops though the allFeeds items and check if all of them have a specific non-empty property.
 
